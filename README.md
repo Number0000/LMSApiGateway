@@ -9,3 +9,7 @@ Rest controller to add control<br>
 Spring boot and maven for dependecy and spring framework<br>
 Microservice to split up all the functionally to each respective class<br>
 Swagger to display all the nessassary function needed for each microservice and each relative path for temporal look<br>
+
+Link for reference,<br>
+https://www.baeldung.com/how-to-use-resttemplate-with-basic-authentication-in-spring
+<br>
